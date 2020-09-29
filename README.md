@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋 I am Chris Josh, your Front End Engineer.
+My goal is to make life beautiful and fun, through coding of course 😁
 
-<!--
-**KristofaJosh/KristofaJosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💬&nbsp; Wanna chat? 
+👉🏼&nbsp; you can chat me on [Twitter](https://twitter.com/ChristofaJoshua) about any of the following 
+- React
+- GraphQL
+- Redux
+- Python
+- Django
+- Node
+That was a long list, basically Programming stuff 😉
 
-Here are some ideas to get you started:
+### 🔭&nbsp; Goals for 2020 
+- Launch a real product with **React Native**
+- Improve my UI Design skill with [Adobe XD](https://www.adobe.com/products/xd.html). *sorry Figma, AdobeXD seemed dope*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on [234 Spaces](http://234spaces.com/)
+- 🌱 I’m currently learning React Native and AWS
+- 👯 I’m looking to collaborate on open source projects
+- 🤔 I’m looking for help with Relay
