@@ -18,7 +18,9 @@ That was a long list, basically Programming stuff 😉
 
 
 
-- 🔭 I’m currently working on [234 Spaces](http://234spaces.com/)
+- 🔭 I’m currently working on [234 Spaces](http://234spaces.com/) and [M2M](http://maps2market.com/)
 - 🌱 I’m currently learning React Native and AWS
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with Relay
+
+[comment]: <> (- 🤔 I’m looking for help with Relay)
+
