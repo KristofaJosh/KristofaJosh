@@ -9,7 +9,7 @@ My goal is to make life beautiful and fun, through coding of course 😁
 - Python
 - Django
 - Node
-That was a long list, basically Programming stuff 😉
+uhmm, ...basically Programming stuff 😉
 
 ### 🔭&nbsp; Goals for 2020 
 - Launch a real product with **React Native** and Flutter
