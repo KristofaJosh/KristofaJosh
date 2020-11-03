@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Chris Josh, your Front End Engineer.
-My goal is to make life beautiful and fun, through coding of course 😁
+My goal is to make life beautiful and fun, through coding 😁
 
 ### 💬&nbsp; Wanna chat? 
 👉🏼&nbsp; you can chat me on [Twitter](https://twitter.com/ChristofaJoshua) about any of the following 
