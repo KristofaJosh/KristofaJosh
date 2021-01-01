@@ -11,8 +11,8 @@ My goal is to make life beautiful and fun, through coding 😁
 - Node
 uhmm, ...basically Programming stuff 😉
 
-### 🔭&nbsp; Goals for 2020 
-- Launch a real product with **React Native** and Flutter
+### 🔭&nbsp; Goals for 2021
+- Launch a real product with **React Native**, Flutter and Swift
 - Learn Golang
 - Improve my UI Design skill with [Adobe XD](https://www.adobe.com/products/xd.html). *sorry Figma, AdobeXD seemed dope*
 
