@@ -9,10 +9,9 @@ My goal is to make life beautiful and fun, through coding 😁
 - Node
 uhmm, ...basically Programming stuff 😉
 
-### 🔭&nbsp; Goals for 2023
-- Improve on ML
+### 🔭&nbsp; Goals for 2024
+- Improve Backend Skills
+- Learn AI/ML
 
-- 👯 I’m looking to collaborate on open source projects
-
-[comment]: <> (- 🤔 I’m looking for help with Relay)
+- 👯 I’m looking to collaborate on open-source projects
 
