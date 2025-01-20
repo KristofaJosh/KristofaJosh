@@ -5,11 +5,13 @@ My goal is to make life beautiful and fun, through coding 😁
 👉🏼&nbsp; you can chat me on [Twitter](https://twitter.com/ChristofaJoshua) about any of the following 
 - React
 - GraphQL
-- Redux
+- Redux/Sagas
+- Functional Programming
+- CSS
 - Node
 uhmm, ...basically Programming stuff 😉
 
-### 🔭&nbsp; Goals for 2024
+### 🔭&nbsp; Goals for 2025
 - Improve Backend Skills
 - Learn AI/ML
 
