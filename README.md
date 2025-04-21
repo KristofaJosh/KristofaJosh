@@ -1,4 +1,4 @@
-### Hi there 👋 I am Chris Josh, your Front End Engineer.
+### Hi there 👋 I am Chris Josh, your Software Engineer.
 My goal is to make life beautiful and fun, through coding 😁
 
 ### 💬&nbsp; Wanna chat? 
@@ -8,12 +8,11 @@ My goal is to make life beautiful and fun, through coding 😁
 - Redux/Sagas
 - Functional Programming
 - CSS
-- Node
+- NodeJS
 uhmm, ...basically Programming stuff 😉
 
 ### 🔭&nbsp; Goals for 2025
-- Improve Backend Skills
-- Learn AI/ML
+- Improve AI/ML skills
 
 - 👯 I’m looking to collaborate on open-source projects
 
