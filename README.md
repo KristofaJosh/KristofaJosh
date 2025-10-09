@@ -13,6 +13,3 @@ uhmm, ...basically Programming stuff 😉
 
 ### 🔭&nbsp; Goals for 2025
 - Improve AI/ML skills
-
-- 👯 I’m looking to collaborate on open-source projects
-
