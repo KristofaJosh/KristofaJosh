@@ -28,11 +28,6 @@ My foundation lies in creating exceptional frontend experiences, and I’ve expa
 
 ---
 
-## Projects I’m Passionate About
-- 🏘️ **Rentors** — helping Lagos tenants make smarter renting decisions  
-
----
-
 ## Contribution Activity
 
 <picture>
