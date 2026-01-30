@@ -15,13 +15,6 @@
 I’m **Joshua Enyi-Christopher**, a **frontend-focused fullstack engineer** passionate about building **beautiful, performant, and scalable production-ready applications**.  
 My foundation lies in creating exceptional frontend experiences, and I’ve expanded that expertise into **backend architecture**, **DevOps automation**, and **AI integration** — bringing a holistic approach to modern web development.
 
-### What Drives Me
-- 🧭 **End-to-end craftsmanship** — From architecture design to clean, polished interfaces  
-- 💡 **AI-powered innovation** — Leveraging AI to accelerate development and decision-making  
-- ⚙️ **Scalable systems thinking** — Building for growth, reliability, and long-term maintainability  
-- 🧠 **Elegant problem-solving** — Turning complex requirements into intuitive user experiences  
-- 🚀 **Continuous evolution** — Learning, experimenting, and staying ahead of the tech curve  
-
 ### My Mission
 > To empower people and businesses through beautiful, functional, and future-ready software
 > and to make life a little more exciting with every project I build. 💪
