@@ -42,7 +42,8 @@ Let's build something that makes life beautiful.
 [💼 LinkedIn](https://www.linkedin.com/in/christofajosh) • [🌐 Portfolio](https://kristofajosh.dev?id=gh)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kristofajosh&color=blueviolet&style=for-the-badge)](https://github.com/kristofajosh)
-[![GitHub followers](https://img.shields.io/github/followers/kristofajosh?logo=GitHub&style=for-the-badge)](https://github.com/kristofajosh)
-[![GitHub stars](https://img.shields.io/github/stars/kristofajosh?logo=github&style=for-the-badge)](https://github.com/kristofajosh)
+
+[//]: # ([![GitHub followers]&#40;https://img.shields.io/github/followers/kristofajosh?logo=GitHub&style=for-the-badge&#41;]&#40;https://github.com/kristofajosh&#41;)
+[//]: # ([![GitHub stars]&#40;https://img.shields.io/github/stars/kristofajosh?logo=github&style=for-the-badge&#41;]&#40;https://github.com/kristofajosh&#41;)
 
 </div>
