@@ -1,13 +1,8 @@
 Hi  I’m **Chris Josh** 👋
 ---
-a **frontend-focused fullstack engineer** passionate about building **beautiful, performant, and scalable production-ready applications**.  
-My foundation lies in creating exceptional frontend experiences, and I’ve expanded that expertise into **backend architecture**, **DevOps automation**, and **AI integration** — bringing a holistic approach to modern web development.
 
-### My Mission
-> To empower people and businesses through beautiful, functional, and future-ready software
+> Deep in empowering people and businesses through beautiful, functional, and future-ready software with AI integrations
 > and to make life a little more exciting with every project I build. 💪
-
----
 
 
 ## Tech Stack & Tools
