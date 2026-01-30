@@ -1,16 +1,3 @@
-<div align="center">
-
-# Making life smarter, simpler, and more fun — one line of code at a time ⚡
-
-[![Profile Views](https://komarev.com/ghpvc/?username=kristofajosh&color=blueviolet&style=for-the-badge)](https://github.com/kristofajosh)
-[![GitHub followers](https://img.shields.io/github/followers/kristofajosh?logo=GitHub&style=for-the-badge)](https://github.com/kristofajosh)
-[![GitHub stars](https://img.shields.io/github/stars/kristofajosh?logo=github&style=for-the-badge)](https://github.com/kristofajosh)
-
-### Crafting experiences that blend **technology, creativity, and purpose**
-</div>
-
----
-
 ## About Me
 I’m **Joshua Enyi-Christopher**, a **frontend-focused fullstack engineer** passionate about building **beautiful, performant, and scalable production-ready applications**.  
 My foundation lies in creating exceptional frontend experiences, and I’ve expanded that expertise into **backend architecture**, **DevOps automation**, and **AI integration** — bringing a holistic approach to modern web development.
@@ -21,16 +8,7 @@ My foundation lies in creating exceptional frontend experiences, and I’ve expa
 
 ---
 
-## Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kristofajosh/kristofajosh/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kristofajosh/kristofajosh/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kristofajosh/kristofajosh/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
+<div align="center">
 
 ## Tech Stack & Tools
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -43,11 +21,27 @@ My foundation lies in creating exceptional frontend experiences, and I’ve expa
 
 ---
 
-<div align="center">
-
 ✨ *"Code is my canvas. Innovation is my art."* 🎨  
 Let's build something that makes life beautiful.  
 
 [💼 LinkedIn](https://www.linkedin.com/in/christofajosh) • [🌐 Portfolio](https://kristofajosh.dev?id=gh)
 
+[![Profile Views](https://komarev.com/ghpvc/?username=kristofajosh&color=blueviolet&style=for-the-badge)](https://github.com/kristofajosh)
+[![GitHub followers](https://img.shields.io/github/followers/kristofajosh?logo=GitHub&style=for-the-badge)](https://github.com/kristofajosh)
+[![GitHub stars](https://img.shields.io/github/stars/kristofajosh?logo=github&style=for-the-badge)](https://github.com/kristofajosh)
+
 </div>
+
+---
+## Current Projects
+- 📁 Uplofile - Composable file upload components for React, accessible, and easy to integrate.
+
+---
+
+## Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kristofajosh/kristofajosh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kristofajosh/kristofajosh/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kristofajosh/kristofajosh/output/github-contribution-grid-snake.svg">
+</picture>
