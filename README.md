@@ -20,17 +20,6 @@ Hi  I’m **Chris Josh** 👋
 
 - 📁 **[Uplofile](https://uplofile.kristofajosh.dev/)** - Composable file upload components for React, accessible, and easy to integrate.
 
-
----
-
-## Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kristofajosh/kristofajosh/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kristofajosh/kristofajosh/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kristofajosh/kristofajosh/output/github-contribution-grid-snake.svg">
-</picture>
-
 ---
 
 <div align="center">
@@ -47,3 +36,19 @@ Let's build something that makes life beautiful.
 [//]: # ([![GitHub stars]&#40;https://img.shields.io/github/stars/kristofajosh?logo=github&style=for-the-badge&#41;]&#40;https://github.com/kristofajosh&#41;)
 
 </div>
+
+[//]: # (---)
+
+[//]: # ()
+[//]: # (## Contribution Activity)
+
+[//]: # ()
+[//]: # (<picture>)
+
+[//]: # (  <source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://raw.githubusercontent.com/kristofajosh/kristofajosh/output/github-contribution-grid-snake-dark.svg">)
+
+[//]: # (  <source media="&#40;prefers-color-scheme: light&#41;" srcset="https://raw.githubusercontent.com/kristofajosh/kristofajosh/output/github-contribution-grid-snake.svg">)
+
+[//]: # (  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kristofajosh/kristofajosh/output/github-contribution-grid-snake.svg">)
+
+[//]: # (</picture>)
