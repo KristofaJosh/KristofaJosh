@@ -2,7 +2,7 @@ Hi  I’m **Chris Josh** 👋
 ---
 
 > Deep in empowering people and businesses through beautiful, functional, and future-ready software with AI integrations
-> and to make life a little more exciting with every project I build. 💪
+> and making life a little more exciting with every project I build. 💪
 
 
 ## Tech Stack & Tools
