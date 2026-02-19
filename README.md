@@ -18,7 +18,8 @@ Hi  I’m **Chris Josh** 👋
 
 ## Current Projects
 
-- 📁 **[Uplofile](https://uplofile.kristofajosh.dev/)** - Composable file upload components for React, accessible, and easy to integrate.
+- 📁 **[Uplofile](https://uplofile.kristofajosh.dev/)** - Composable file upload library for React, accessible and easy to integrate.
+- 📁 **[Rehook](https://rehook.kristofajosh.dev/)** - webhook re-routing for dev environments
 
 ---
 
