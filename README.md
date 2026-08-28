@@ -20,7 +20,8 @@ Hi  I’m **Chris Josh** 👋
 
 - 📁 **[Uplofile](https://uplofile.kristofajosh.dev/)** - Composable file upload library for React, accessible and easy to integrate.
 - 📁 **[FinnBud](https://finnbud.com/)** - WIP - From natural chat to structured ledger in seconds.
-[//] - 📁 **[Rehook](https://rehook.kristofajosh.dev/)** - webhook re-routing for dev environments
+  
+[//]: # (- 📁 **[Rehook]&#40;https://rehook.kristofajosh.dev/&#41;** - webhook re-routing for dev environments)
 
 ---
 
